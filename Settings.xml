@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ルナシティ SOS!!    LUNAR CITY SOS!! -->
+<!-- ORIGINAL 1981 芸夢狂人               -->
+<SystemSettings>
+    <System>
+        <DxLog>false</DxLog>
+        <FullScreenMode>false</FullScreenMode>
+    </System>
+    <MySettings>
+        <MaximumBeamShip>0</MaximumBeamShip>
+        <NumberOfBarrierRepair>0</NumberOfBarrierRepair>
+    </MySettings>
+    <EnemySettings>
+        <AttackRatio>1</AttackRatio>
+    </EnemySettings>
+</SystemSettings>
